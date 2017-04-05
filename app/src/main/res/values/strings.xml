@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLite</string>
+
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="id">ID</string>
+
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="get">Get Contact</string>
+    <string name="count">Count</string>
+
+</resources>
